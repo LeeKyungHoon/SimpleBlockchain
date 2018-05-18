@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="p2p"/>
+	<classpathentry kind="src" path="blockchain"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
